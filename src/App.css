@@ -1,0 +1,15 @@
+.highlighted {
+    background-color: yellow;
+    font-weight: bold;
+    width: 2.5rem;
+    height: 2.5rem;
+    margin-bottom: 20px;
+    --tw-bg-opacity: 1;
+    background-color: rgb(234 179 8 / var(--tw-bg-opacity));
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    border-radius: 0.5rem;
+
+  }
